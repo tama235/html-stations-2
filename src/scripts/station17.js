@@ -1,3 +1,3 @@
-handleAlert() {
+handleAlert = () => {
   alert("動いたよ！");
-}
+};
